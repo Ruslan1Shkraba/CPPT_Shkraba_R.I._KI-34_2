@@ -1,0 +1,5 @@
+[2022-11-01 at 17:10:47 EET] Logger start to work
+[2022-11-01 at 17:11:04 EET] Logger start to work
+[2022-11-01 at 17:11:32 EET] Logger start to work
+[2022-11-01 at 17:44:37 EET] Logger start to work
+[2022-11-01 at 17:49:04 EET] Logger start to work
