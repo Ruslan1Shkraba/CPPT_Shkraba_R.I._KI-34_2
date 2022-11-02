@@ -1,0 +1,8 @@
+[2022-11-02 at 14:16:33 EET] Logger start to work
+[2022-11-02 at 14:16:33 EET] [INFO] MilitaryMountaineeringEquipment was called
+[2022-11-02 at 14:16:33 EET] [INFO] MilitaryMountaineeringEquipment method IsEquipmentHoldUp  was called
+[2022-11-02 at 14:16:33 EET] [INFO] MilitaryMountaineeringEquipment method throw hook was called
+[2022-11-03 at 01:21:01 EET] Logger start to work
+[2022-11-03 at 01:21:01 EET] [INFO] MilitaryMountaineeringEquipment was called
+[2022-11-03 at 01:21:01 EET] [INFO] MilitaryMountaineeringEquipment method IsEquipmentHoldUp  was called
+[2022-11-03 at 01:21:01 EET] [INFO] MilitaryMountaineeringEquipment method throw hook was called
